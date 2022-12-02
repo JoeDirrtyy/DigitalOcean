@@ -51,29 +51,29 @@
 // transform();
 // console.log(species);
 
-// var fullMoon = true;
+// var hotDay = true;
 
 // // Initialize a global variable
 // let breed = "human";
 
-// if (fullMoon) {
+// if (hotDay) {
 //   // Initialize a block-scoped variable
 //   let breed = "Lizard Man";
-//   console.log(`on a full moon, joe turns into a ${breed}.`);
+//   console.log(`on a hot day, joe turns into a ${breed}.`);
 // }
 
-// console.log(`when it is not a full moon, joe is just a regular  ${breed}.`);
+// console.log(`when it is not a hot day, joe is just a regular  ${breed}.`);
 
 // // Use var to initialize a variable
 // var species = "human";
 
-// if (fullMoon) {
+// if (hotDay) {
 //   // Attempt to create a new variable in a block
 //   var species = "LizardMan";
-//   console.log(`It is a full moon. Joe is currently a ${species}.`);
+//   console.log(`It is a hot day. Joe is currently a ${species}.`);
 // }
 
-// console.log(`It is not a full moon. Joe is currently a ${species}.`);
+// console.log(`It is not a hot day. Joe is currently a ${species}.`);
 
 
 
